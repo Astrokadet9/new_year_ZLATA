@@ -1,0 +1,46 @@
+h1{
+    color: rgb(137, 14, 14);
+    text-align: center;
+}
+
+.hom{
+    border: 1px;
+    background-color: rgb(17, 96, 30);
+    text-align: center;
+    font-size: 30px;
+    color: wheat
+}
+
+.house {
+    border: 1px;  
+    background-color: rgb(46, 159, 52);
+    text-align: center;
+    font-size: 30px;
+}
+.eat {
+    border: 1px;
+    background-color: rgb(79, 190, 84);
+    text-align: center;
+    font-size: 30px;
+}
+.hors {
+    color: rgb(200, 19, 19);
+    font-size: 20px;
+    
+
+}
+img {
+    width: 250px;
+    height: 250px;
+}
+.ert{
+    width: 230px;
+    height: 230px;
+}
+.skz{
+    border: 1px;
+    background-color: rgb(120, 228, 125);
+    text-align: center;
+    font-size: 30px;
+}
+
